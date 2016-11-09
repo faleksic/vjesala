@@ -1,0 +1,9 @@
+D:\C# projects\Vjesala\Vjesala\bin\Debug\Vjesala.exe
+D:\C# projects\Vjesala\Vjesala\bin\Debug\Vjesala.pdb
+D:\C# projects\Vjesala\Vjesala\obj\Debug\Vjesala.Izbornik.resources
+D:\C# projects\Vjesala\Vjesala\obj\Debug\Vjesala.Properties.Resources.resources
+D:\C# projects\Vjesala\Vjesala\obj\Debug\Vjesala.csproj.GenerateResource.Cache
+D:\C# projects\Vjesala\Vjesala\obj\Debug\Vjesala.exe
+D:\C# projects\Vjesala\Vjesala\obj\Debug\Vjesala.pdb
+D:\C# projects\Vjesala\Vjesala\obj\Debug\Vjesala.Igra.resources
+D:\C# projects\Vjesala\Vjesala\obj\Debug\Vjesala.csprojResolveAssemblyReference.cache
